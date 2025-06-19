@@ -55,7 +55,7 @@ while True:
         else:
             print("\nPrestamos disponibles:")
             for i, prestamo in enumerate(historial_prestamos, start=1):
-                estado = "✅ Pagado" if prestamo["pagado"] else "No pagado"
+                estado = "Pagado" if prestamo["pagado"] else "No pagado"
                 print(f"{i}. Cliente: {prestamo['cliente']}, Monto: {prestamo['monto']}, Estado: {estado}")
 
             try:

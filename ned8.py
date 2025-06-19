@@ -74,4 +74,4 @@ while True:
         break
 
     else:
-        print("Opción no valida. Intenta de nuevo.")
+        print("Opcion no valida. Intenta de nuevo.")

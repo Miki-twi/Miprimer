@@ -1,5 +1,4 @@
-# PROYECTO FINAL
-# Miladys Esther Brito Mariano
+
 
 historial_prestamos = []
 
